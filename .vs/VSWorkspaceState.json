@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CustomerAddress.Business",
+    "\\CustomerAddress.DAL",
+    "\\CustomerAddress.DAL\\Entities"
+  ],
+  "SelectedNode": "\\CustomerAddress.DAL\\Entities\\CompanyBranch.cs",
+  "PreviewInSolutionExplorer": false
+}
